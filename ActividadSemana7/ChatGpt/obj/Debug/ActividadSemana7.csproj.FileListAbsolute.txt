@@ -1,0 +1,13 @@
+C:\Users\Wilfredo Morales\source\repos\ChatGpt\ChatGpt\bin\Debug\ChatGpt.exe.config
+C:\Users\Wilfredo Morales\source\repos\ChatGpt\ChatGpt\bin\Debug\ChatGpt.exe
+C:\Users\Wilfredo Morales\source\repos\ChatGpt\ChatGpt\bin\Debug\ChatGpt.pdb
+C:\Users\Wilfredo Morales\source\repos\ChatGpt\ChatGpt\obj\Debug\ActividadSemana7.csproj.CoreCompileInputs.cache
+C:\Users\Wilfredo Morales\source\repos\ChatGpt\ChatGpt\obj\Debug\ChatGpt.exe
+C:\Users\Wilfredo Morales\source\repos\ChatGpt\ChatGpt\obj\Debug\ChatGpt.pdb
+C:\Users\Wilfredo Morales\source\repos\ActividadSemana7\ChatGpt\bin\Debug\ChatGpt.exe.config
+C:\Users\Wilfredo Morales\source\repos\ActividadSemana7\ChatGpt\bin\Debug\ChatGpt.exe
+C:\Users\Wilfredo Morales\source\repos\ActividadSemana7\ChatGpt\bin\Debug\ChatGpt.pdb
+C:\Users\Wilfredo Morales\source\repos\ActividadSemana7\ChatGpt\obj\Debug\ActividadSemana7.csproj.AssemblyReference.cache
+C:\Users\Wilfredo Morales\source\repos\ActividadSemana7\ChatGpt\obj\Debug\ActividadSemana7.csproj.CoreCompileInputs.cache
+C:\Users\Wilfredo Morales\source\repos\ActividadSemana7\ChatGpt\obj\Debug\ChatGpt.exe
+C:\Users\Wilfredo Morales\source\repos\ActividadSemana7\ChatGpt\obj\Debug\ChatGpt.pdb
